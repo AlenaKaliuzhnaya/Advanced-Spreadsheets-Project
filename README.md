@@ -14,7 +14,7 @@
 4. What attributes are important for a vacation rental?
 
 ### Prerequisites
-* You need to download a copy of the Airbnb New York dataset [Follow the link -> ]([https://developers.themoviedb.org/3](https://docs.google.com/spreadsheets/d/1hDhvD2rLWqTIpC-VM7UiGY5KNV7zBgNqXSTKkg4frL4/edit#gid=1221840239))
+* You need to download a copy of the Airbnb New York dataset [follow the link -> ](https://docs.google.com/spreadsheets/d/1hDhvD2rLWqTIpC-VM7UiGY5KNV7zBgNqXSTKkg4frL4/edit#gid=1221840239)
 
 ### Functionality
 
@@ -24,3 +24,6 @@ This document will allow the client to obtain detailed information about vacatio
 * Google Sheets was used to create this document
 
 - Google Sheets
+
+### Link on my project 
+You can fined link [Here -> ] (https://docs.google.com/spreadsheets/d/1t1zNnpOmUbusm8IJ2TQXmfF2yoX12RLog_jOyy_wHa4/edit?usp=sharing)  
